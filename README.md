@@ -1,0 +1,1 @@
+﻿# luci-app-aliddns
